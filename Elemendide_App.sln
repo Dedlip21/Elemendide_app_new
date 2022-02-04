@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Elemendide_App.Android", "Elemendide_App.Android\Elemendide_App.Android.csproj", "{8BE32F1F-C37A-4020-9AC4-C3EA50567C41}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Elemendide_App", "Elemendide_App\Elemendide_App.csproj", "{E33B5950-C8DC-47E5-A1F5-D1BABD968643}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8BE32F1F-C37A-4020-9AC4-C3EA50567C41}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8BE32F1F-C37A-4020-9AC4-C3EA50567C41}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8BE32F1F-C37A-4020-9AC4-C3EA50567C41}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{8BE32F1F-C37A-4020-9AC4-C3EA50567C41}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8BE32F1F-C37A-4020-9AC4-C3EA50567C41}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8BE32F1F-C37A-4020-9AC4-C3EA50567C41}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{E33B5950-C8DC-47E5-A1F5-D1BABD968643}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E33B5950-C8DC-47E5-A1F5-D1BABD968643}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E33B5950-C8DC-47E5-A1F5-D1BABD968643}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{E33B5950-C8DC-47E5-A1F5-D1BABD968643}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E33B5950-C8DC-47E5-A1F5-D1BABD968643}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E33B5950-C8DC-47E5-A1F5-D1BABD968643}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EF2709D7-3E70-42C6-9E4A-ADFC1F9C0EA3}
+	EndGlobalSection
+EndGlobal
